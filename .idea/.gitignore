@@ -1,0 +1,13 @@
+# Ignore build files
+/out
+*.class
+
+# Ignore IDEA-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
