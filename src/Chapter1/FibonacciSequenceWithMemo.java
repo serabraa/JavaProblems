@@ -16,7 +16,7 @@ public class FibonacciSequenceWithMemo {
 
 
     public static void main(String[] args) {
-        System.out.println(fibSequenceMemo(25));
+        System.out.println(fibSequenceMemo(24));
 
     }
 }

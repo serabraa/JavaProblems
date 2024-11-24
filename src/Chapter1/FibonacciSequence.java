@@ -15,7 +15,7 @@ public class FibonacciSequence {
 
 
         public static void main(String[] args) {
-            System.out.println(fibSequence(10));
+            System.out.println(fibSequence(24));
         }
 }
 

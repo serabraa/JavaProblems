@@ -23,6 +23,6 @@ public class FibonnaciSequenceIterative {
     }
 
     public static void main(String[] args) {
-        System.out.println(fibSequenceIter(10));
+        System.out.println(fibSequenceIter(25));
     }
 }
